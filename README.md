@@ -1,6 +1,6 @@
 <h2 align="center">Hello 👋</h2>
 
-<h3>🔭   I’m currently doing</h3>
+<h3>🔭 What I do ? </h3>
 <ul>
   <li>Data Engineering - Python | Azure | Spark | Kafka ✨</li>
   <li>Software Engineering - JavaScript | Python | Typescript ✨</li>
