@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋</h2>
+
+<h3>🔭   I’m currently doing</h3>
+<ul>
+  <li>Data Engineering - Python | Azure | Spark | Kafka ✨</li>
+  <li>Software Engineering - JavaScript | Python | Typescript ✨</li>
+</ul>
 
 <!--
 **devidb00/devidb00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
